@@ -1,6 +1,6 @@
 ---
 layout: post
-  title: "  Emma, Horrible Cop, Launches Site"
+title: "  Emma, Horrible Cop, Launches Site"
 date: 2019-03-19
 ---
 
